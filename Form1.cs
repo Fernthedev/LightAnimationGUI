@@ -13,7 +13,7 @@ namespace LightAnimationGUICsharp
 {
     public partial class LightAnimator4Pi : Form
     {
-        private PinData[] pinDatas = new PinData[31];
+        private PinData[] pinDatas = new PinData[32];
         private PinData selectedPinData;
 
         private int frameInt;
@@ -252,9 +252,13 @@ namespace LightAnimationGUICsharp
         private void save(string filepath)
         {
 
-
+            int pins = 0;
             foreach (PinData pinData in pinDatas)
             {
+                if (pins > selectedpin.Maximum) break;
+
+                pins++;
+
                 List<string> lines = new List<string>();
                 PinData.Pinmode lastPinMode = PinData.Pinmode.OFF;
                 bool run = false;

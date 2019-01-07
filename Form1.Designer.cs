@@ -90,9 +90,9 @@
             // 
             this.whichpi.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.whichpi.FormattingEnabled = true;
-            this.whichpi.Location = new System.Drawing.Point(668, 196);
+            this.whichpi.Location = new System.Drawing.Point(607, 196);
             this.whichpi.Name = "whichpi";
-            this.whichpi.Size = new System.Drawing.Size(121, 21);
+            this.whichpi.Size = new System.Drawing.Size(182, 21);
             this.whichpi.TabIndex = 5;
             this.whichpi.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -180,6 +180,7 @@
             // 
             // saveButton
             // 
+            this.saveButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.saveButton.Location = new System.Drawing.Point(668, 223);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(75, 23);
@@ -190,6 +191,7 @@
             // 
             // savePath
             // 
+            this.savePath.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.savePath.Location = new System.Drawing.Point(668, 253);
             this.savePath.Name = "savePath";
             this.savePath.Size = new System.Drawing.Size(100, 20);

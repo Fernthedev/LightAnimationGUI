@@ -7,3 +7,4 @@ C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\bin\
 C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Debug\LightAnimationGUICsharp.exe
 C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Debug\LightAnimationGUICsharp.pdb
 C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Debug\LightAnimationGUICsharp.LightAnimator4Pi.resources
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Debug\LightAnimationGUICsharp.csprojAssemblyReference.cache
