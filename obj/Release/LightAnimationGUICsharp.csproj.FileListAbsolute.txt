@@ -1,0 +1,9 @@
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\bin\Release\LightAnimationGUICsharp.exe.config
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\bin\Release\LightAnimationGUICsharp.exe
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\bin\Release\LightAnimationGUICsharp.pdb
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Release\LightAnimationGUICsharp.LightAnimator4Pi.resources
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Release\LightAnimationGUICsharp.Properties.Resources.resources
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Release\LightAnimationGUICsharp.csproj.GenerateResource.cache
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Release\LightAnimationGUICsharp.csproj.CoreCompileInputs.cache
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Release\LightAnimationGUICsharp.exe
+C:\Users\fernr\source\repos\LightAnimationGUICsharp\LightAnimationGUICsharp\obj\Release\LightAnimationGUICsharp.pdb
